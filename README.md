@@ -7,3 +7,4 @@
 - 🌱 I am currently learning SpringBoot.
 - 📫 What is the best way to contact me? carlosfgmafra@gmail.com
 
+![Carlos Mafra GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMafraa&show_icons=true&theme=radical)
