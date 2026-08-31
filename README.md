@@ -1,64 +1,52 @@
-## Hi there, I'm Carlos Mafra!
+## Hi, I'm Carlos Mafra 👋
 
-### I'm a Systems Analysis and Developer.
+### Full-Stack Developer &amp; Tech Lead — Manaus, Brazil
 
-- 😄 I am a student of systems analysis and development.
-- 🔭 I am currently working at the Department of Technology and Information - Amazon Military Police.
-- 🌱 I am currently learning SpringBoot.
-- 📫 What is the best way to contact me? carlosfgmafra@gmail.com
+- 🧩 Full-stack: **Angular / TypeScript** on the front, **Spring Boot (Java/Kotlin)** and **FastAPI (Python)** on the back, with **Hibernate/JPA**, **PostgreSQL** and **SQL Server**.
+- 🧪 Spent a year as an **SDET** (Playwright + K6) — I think about how code fails in production before I write it.
+- 👥 Currently **tech lead** of a 7-person team at **Foxconn** (Manaus).
+- 🎓 Finishing a Systems Analysis &amp; Development degree at IFAM — expected 2026.
+- 🔗 Portfolio: **https://carlosmafraa.github.io/portifolio/**
+- 📫 carlosfgmafra@gmail.com
 
+### Tech I work with
 
-### Technologies I use to Program / Develop
-<div style="display: flex; justify-content: center;">
-<div style="width: 80%;">
-<div style="text-align: center">
+<div align="center">
 
-![TypeScript](https://img.shields.io/badge/typescript-%232F74C0?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![SASS](https://img.shields.io/badge/sass-%23CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23FF7667?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238411F6?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring Boot](https://img.shields.io/badge/spring%20boot-%2369AD3C?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
-![JUnit 5](https://img.shields.io/badge/junit-%23FFFFFF?style=for-the-badge&logo=junit5&logoColor=black)&nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
-</div>
-<div style="text-align: center">
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)&nbsp;
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)&nbsp;
+![PrimeNG](https://img.shields.io/badge/PrimeNG-DD0031?style=for-the-badge&logo=primeng&logoColor=white)&nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMafraa&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=10)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMafraa&theme=transparent&show_icons=true&text_color=ffffff&hide_border=true&hide_title=true&line_height=20&text_bold=false&card_width=100)
-</div>
-</div>
-</div>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 
-### In the learning process
-
-<div style='text-align: center'>
-
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
-![Docker](https://img.shields.io/badge/docker-%230997E5?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/google%20cloud-%23EA4335?style=for-the-badge&logo=googlecloud&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-%23366B98?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/flutter-%235AC2F0?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)&nbsp;
+![K6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)&nbsp;
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
 
 </div>
 
-<hr>
+### GitHub stats
 
-### My favorite works
+<div align="center">
 
-<div style='text-align: center'>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosMafraa&repo=Pokedex&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/CarlosMafraa/Pokedex)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMafraa&layout=compact&bg_color=00000000&text_color=808080&title_color=808080&hide_border=true&langs_count=10)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMafraa&bg_color=00000000&text_color=808080&title_color=808080&icon_color=808080&hide_border=true&show_icons=true)
 
 </div>
 
-<hr>
+### Contact
 
-### Contacts
-
-<a href="mailto:carlosfgmafra@gmail.com" target="_blank"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
-<a href="https://wa.me/5592984161355?text=Ol%C3%A1%20*H%C3%A9lio%20Carlitos*%2C%20eu%20sou%20%5BSeu%20Nome%20Completo%5D%2C%20peguei%20seu%20contacto%20no%20seu%20README%20do%20GitHub%2C%20eu%20gostaria%20de%20" target="_blank"><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
+<a href="mailto:carlosfgmafra@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/carlos-mafra-2a269a20a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
