@@ -7,7 +7,7 @@
 - 👥 Currently **tech lead** of a 7-person team at **Foxconn** (Manaus).
 - 🎓 Finishing a Systems Analysis &amp; Development degree at IFAM — expected 2026.
 - 🔗 Portfolio: **https://carlosmafraa.github.io/portifolio/**
-- 📫 carlosfgmafra@gmail.com
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/carlos-mafra-2a269a20a/)
 
 ### Tech I work with
 
@@ -48,5 +48,5 @@
 
 ### Contact
 
-<a href="mailto:carlosfgmafra@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="https://www.linkedin.com/in/carlos-mafra-2a269a20a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://carlosmafraa.github.io/portifolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
