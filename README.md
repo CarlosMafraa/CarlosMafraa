@@ -6,7 +6,7 @@
 - 🧪 Spent a year as an **SDET** (Playwright + K6) — I think about how code fails in production before I write it.
 - 👥 Currently **tech lead** of a 7-person team at **Foxconn** (Manaus).
 - 🎓 Finishing a Systems Analysis &amp; Development degree at IFAM — expected 2026.
-- 🔗 Portfolio: **https://carlosmafraa.github.io/portifolio/**
+- 🔗 Portfolio: **https://carlosmafraa.github.io/portfolio/**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/carlos-mafra-2a269a20a/)
 
 ### Tech I work with
@@ -49,4 +49,4 @@
 ### Contact
 
 <a href="https://www.linkedin.com/in/carlos-mafra-2a269a20a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://carlosmafraa.github.io/portifolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
+<a href="https://carlosmafraa.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
