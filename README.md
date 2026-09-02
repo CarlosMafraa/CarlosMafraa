@@ -4,7 +4,7 @@
 
 - 🧩 Full-stack: **Angular / TypeScript** on the front, **Spring Boot (Java/Kotlin)** and **FastAPI (Python)** on the back, with **PostgreSQL** and **SQL Server**.
 - 🧪 Spent a year as an **SDET** (Playwright + K6) — I think about how code fails in production before I write it.
-- 🎓 Finishing a Systems Analysis & Development degree at IFAM — expected 2026.
+- 🎓 Finishing a Systems Analysis & Development degree at IFAM — expected 2027.
 - 🔗 Portfolio: **https://carlosmafraa.github.io/portfolio/**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/carlos-mafra-2a269a20a/)
 
