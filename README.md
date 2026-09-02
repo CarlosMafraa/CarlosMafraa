@@ -35,15 +35,6 @@
 
 </div>
 
-### GitHub stats
-
-<div align="center">
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMafraa&layout=compact&bg_color=00000000&text_color=808080&title_color=808080&hide_border=true&langs_count=10)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMafraa&bg_color=00000000&text_color=808080&title_color=808080&icon_color=808080&hide_border=true&show_icons=true)
-
-</div>
-
 ### Contact
 
 <a href="https://www.linkedin.com/in/carlos-mafra-2a269a20a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
